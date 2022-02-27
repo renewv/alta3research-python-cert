@@ -42,7 +42,7 @@ This python script
 
 Clone: git clone https://github.com/renewv/alta3research-python-cert.git
   
-Copy your own key generated from https://api.nasa.gov/ to the key file in the Project Directory
+Create a file called key then copy your own key generated from https://api.nasa.gov/ to the key file in the Project Directory
 XXXXXpGdCaccDbVzYYYYYBFlX0X5Ofdre1hXXXXX
   
 Copy File capitals.json with the State and Capitals
